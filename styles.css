@@ -1,0 +1,17 @@
+/* Para generar un scroll interno en la lista de turnos */
+#listaTurnos {
+    max-height: 400px;     
+    overflow-y: auto;      
+    padding-right: 5px;    
+    transition: 0.2s;
+}
+
+#listaTurnos div:hover {
+    background-color: rgb(211, 211, 211);
+}
+
+#auth {
+    max-width: 900px;
+    margin: 0 auto;
+}
+

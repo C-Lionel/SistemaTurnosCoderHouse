@@ -1,0 +1,8 @@
+
+[
+  { "id": 1, "nombre": "Peluquería" },
+  { "id": 2, "nombre": "Barbería" },
+  { "id": 3, "nombre": "Doctor" },
+  { "id": 4, "nombre": "Dentista" },
+  { "id": 5, "nombre": "Gimnasio" }
+]
